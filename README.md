@@ -1,6 +1,6 @@
 # 2022-solar-power-generation-prediction
 
-My implementation and sharing of this contest: https://aidea-web.tw/topic/09679060-518a-4e6f-94db-53c7d8de8138. I got rank 5 (out of 179 teams) in the Public Leaderboard. The Private Leaderboard has not been announced yet.
+My implementation and sharing of this contest: https://aidea-web.tw/topic/09679060-518a-4e6f-94db-53c7d8de8138. I got rank 5 (out of 179 teams) in the Public Leaderboard and rank 10 in the Private Leaderboard.
 
 ## Run My Implementation
 
